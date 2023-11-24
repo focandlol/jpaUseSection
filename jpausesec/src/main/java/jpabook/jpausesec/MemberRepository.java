@@ -2,6 +2,7 @@ package jpabook.jpausesec;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
+import jpabook.jpausesec.domain.Member;
 import org.springframework.stereotype.Repository;
 
 @Repository
