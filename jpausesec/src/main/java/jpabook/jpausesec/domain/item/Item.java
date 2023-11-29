@@ -31,8 +31,8 @@ public abstract class Item {
     /**
      * stock 증가
      */
-    public void addStock(int quentity){
-        this.stockQuantity += quentity;
+    public void addStock(int quantity){
+        this.stockQuantity += quantity;
     }
 
     public void removeStock(int quantity){
